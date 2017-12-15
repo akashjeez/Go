@@ -15,4 +15,10 @@ func main() {
 	fmt.Println(" A <<= 2 :",a)
 	a >>= 3
 	fmt.Println(" A >>= 3 :",a)
+	a &= 2
+	fmt.Println(" A &= 2 :",a)
+	a ^= 2
+	fmt.Println(" A ^= 2 :",a)
+	a |= 2
+	fmt.Println(" A |= 2 :",a)
 }
