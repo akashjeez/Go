@@ -13,4 +13,4 @@ Go supports concurrent programming, i.e. it allows running multiple processes si
 It provides many advanced built-in types such as variable length arrays and key-value maps.
 
 
-# The GO_Lang.docx has list of Go Basics Code & Result Screenshots.
+The GO_Lang.docx has list of Go Basics Code & Result Screenshots.
