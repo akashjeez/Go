@@ -11,3 +11,6 @@ It provides garbage collection, type safety, dynamic-typing capability.
 Go supports concurrent programming, i.e. it allows running multiple processes simultaneously.
 
 It provides many advanced built-in types such as variable length arrays and key-value maps.
+
+
+# The GO_Lang.docx has list of Go Basics Code & Result Screenshots.
